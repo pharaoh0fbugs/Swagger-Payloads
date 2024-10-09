@@ -1,0 +1,13 @@
+{
+  "url": "https://raw.githubusercontent.com/pharaoh0fbugs/pharaoh0fbugs.github.io/main/swagger-xss.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/pharaoh0fbugs/pharaoh0fbugs.github.io/main/swagger-xss.yaml",
+      "name": "Foo"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pharaoh0fbugs/pharaoh0fbugs.github.io/main/swagger-xss.yaml",
+      "name": "Foo2"
+    }
+  ]
+}
