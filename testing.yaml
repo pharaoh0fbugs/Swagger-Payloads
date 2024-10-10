@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: XSS test
+  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title=''><img src onerror="alert('XSS')" /></a></textarea></mtext></svg></mglyph></mtext></math>
+  version: production
