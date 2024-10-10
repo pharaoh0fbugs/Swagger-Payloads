@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/pharaoh0fbugs/pharaoh0fbugs.github.io/main/Tesing.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/pharaoh0fbugs/pharaoh0fbugs.github.io/main/Tesing.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
